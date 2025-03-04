@@ -1,6 +1,6 @@
 #!/bin/zsh
 
-project_root=$PWD
+project_root=$PWD 
 
 while getopts 'nc:t:' opt;
 do
