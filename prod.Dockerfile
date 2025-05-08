@@ -1,6 +1,6 @@
 # syntax=docker/dockerfile:1
 FROM ubuntu:jammy AS base
-LABEL homepage="https://khoj.dev"
+LABEL homepage="https://taarun.dev"
 LABEL repository="https://github.com/khoj-ai/khoj"
 LABEL org.opencontainers.image.source="https://github.com/khoj-ai/khoj"
 LABEL org.opencontainers.image.description="Your second brain, containerized for multi-user, cloud deployment"
